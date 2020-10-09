@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baby-steps.js",
+  "dependencies": {
+    "bl": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyu90221/learnyournode-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanyu90221/learnyournode-lesson/issues"
+  },
+  "homepage": "https://github.com/yuanyu90221/learnyournode-lesson#readme"
+}
