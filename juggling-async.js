@@ -16,7 +16,7 @@ const httpGet =  function(uri, idx) {
         }
         results[idx] = data.toString();
         count++;
-        if (count == 3) {
+        if (count === urls.length) {
             printResult();
         }
       }));
